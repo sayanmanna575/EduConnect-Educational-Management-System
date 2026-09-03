@@ -26,6 +26,7 @@
 - [Database Collections](#-database-collections)
 - [API Endpoints](#-api-endpoints)
 - [Deployment Guide](#-deployment-guide)
+- [Author & Contact](#author--contact)
 
 ---
 
