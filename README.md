@@ -1119,11 +1119,13 @@ All dashboards are responsive and work on:
 
 ---
 
-## 🏗️ Built With Love By
+## 👤 Author & Contact
+**Sayan Manna** 
+**Souvik Pachal** 
+**Dipannita Mukherjee** 
+**Soumyajit Jana** 
+**Soumen Gorai** 
 
-**Souvik Pachal** — Final Year Project (FYP)
-
-> *EduConnect is designed to digitize and streamline the entire academic management workflow of an institution — from student enrollment to final grade submission.*
 
 ---
 
