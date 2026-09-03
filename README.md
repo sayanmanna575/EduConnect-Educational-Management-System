@@ -26,7 +26,7 @@
 - [Database Collections](#-database-collections)
 - [API Endpoints](#-api-endpoints)
 - [Deployment Guide](#-deployment-guide)
-- [Author & Contact](#author--contact)
+- <a href="#author--contact">Author & Contact</a>
 
 ---
 
@@ -1120,11 +1120,11 @@ All dashboards are responsive and work on:
 ---
 
 ## 👤 Author & Contact
-**Sayan Manna** 
-**Souvik Pachal** 
-**Dipannita Mukherjee** 
-**Soumyajit Jana** 
-**Soumen Gorai** 
+**Sayan Manna**  
+**Souvik Pachal**  
+**Dipannita Mukherjee**  
+**Soumyajit Jana**  
+**Soumen Gorai**  
 
 
 ---
